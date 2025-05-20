@@ -29,4 +29,5 @@ Il n'existe malheureusement pas de données plus récente avec ce niveau de dét
 
 
 ![Distribution de l'indicateur d'invisibilisation sur l'ensemble de la ville.](images/distribution.png)
+
 Nous avons choisi un seuil à 0.5 -> nous ne gardons que les carreaux INSEE ayant une valeur supérieure à 0.5 pour le tirage au sort des localisations.
