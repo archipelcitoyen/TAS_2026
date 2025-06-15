@@ -22,7 +22,7 @@ Nous avons exécuter le notebook `TAS_INSEE.ipynb` en direct lors d'un Grand Cer
 665     POINT (1.38785 43.58079)
 ```
 
-Vous pouvez les retrouver [sur la carte suivante](https://archipelcitoyen.github.io/TAS_2026/carte_invisibilisation_toulouse.html).
+Vous pouvez les retrouver [sur la carte suivante](https://archipelcitoyen.github.io/TAS_2026/carte_invisibilisation_toulouse_OFFICIELLE.html).
 
 ## 🧑‍🤝‍🧑 Pourquoi ce travail ?
 
