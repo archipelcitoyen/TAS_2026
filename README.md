@@ -27,6 +27,7 @@ Vous pouvez les retrouver [sur la carte suivante](https://archipelcitoyen.github
 ## 🧑‍🤝‍🧑 Pourquoi ce travail ?
 
 Cette méthode vise à construire un Collège Citoyen pluraliste, en donnant une chance à celles et ceux qui :
+
 - sont peu visibles dans la vie publique,
 - vivent dans des zones d’habitat collectif, social ou précaire,
 - ne participent que rarement aux processus politiques.
