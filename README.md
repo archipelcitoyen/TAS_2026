@@ -63,7 +63,6 @@ Le score final (indicateur d'invisibilisation) est ensuite **filtré** : nous ne
 6. **Tirage au sort** de `n=15` points dans ces carreaux
 7. **Génération d'une carte interactive** (`carte_invisibilisation_toulouse.html`)
 
-```
 
 ## 📦 Lancer le script
 
