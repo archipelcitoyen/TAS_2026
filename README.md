@@ -24,6 +24,13 @@ Nous avons exécuter le notebook `TAS_INSEE.ipynb` en direct lors d'un Grand Cer
 
 Vous pouvez les retrouver [sur la carte suivante](https://archipelcitoyen.github.io/TAS_2026/carte_invisibilisation_toulouse.html).
 
+## 🧑‍🤝‍🧑 Pourquoi ce travail ?
+
+Cette méthode vise à construire un Collège Citoyen pluraliste, en donnant une chance à celles et ceux qui :
+- sont peu visibles dans la vie publique,
+- vivent dans des zones d’habitat collectif, social ou précaire,
+- ne participent que rarement aux processus politiques.
+
 ## 💡 Fondement théorique
 
 Ce travail s’inspire (en le déformant à une maille beaucoup plus locale) du concept de **classe géo-sociale**, développé par Julia Cagé et Thomas Piketty ([2023](https://www.unehistoireduconflitpolitique.fr/glossaire.html)).  
